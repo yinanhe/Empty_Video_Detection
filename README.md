@@ -2,9 +2,9 @@
 
 ## How to Use
 only use 
-'''
+```
 python3 kongshipinjiance.py
-'''
+```
 
 ## requirement
 opencv
